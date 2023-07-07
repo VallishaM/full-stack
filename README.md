@@ -3,6 +3,9 @@
 To clone repo;
 git clone <paste from github>
 
+Before making any file changes;
+git pull
+
 After file changes;
 
 git add .
